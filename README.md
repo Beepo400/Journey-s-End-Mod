@@ -1,5 +1,5 @@
 # Journey-s-End-Mod
- <b>To install this mod, download the JourneysEnd_p.pak file and place it in your SteamApps/Common/OCTOPATHTRAVELER/Content/Paks folder. Please be aware that this mod will be incompatible with pretty much every other Octopath mod.</b>
+ <b>To install this mod, download the JourneysEnd_p.pak file from the latest release and place it in your SteamApps/Common/OCTOPATHTRAVELER/Content/Paks folder. Please be aware that this mod will be incompatible with pretty much every other Octopath mod.</b>
 
 Read this first: https://pastebin.com/acYzpwsN
 
